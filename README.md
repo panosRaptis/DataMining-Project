@@ -3,6 +3,7 @@
 Dataset: "London Bicycle Hires"
 
 ### Notebook Structure
+
 ~/Notebook.ipynb
 │
 └──Brief Presentation and Data Loading
