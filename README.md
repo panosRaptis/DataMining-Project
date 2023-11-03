@@ -4,7 +4,7 @@ Dataset: "London Bicycle Hires"
 
 ## Notebook Structure
 
-"""
+```
 ~/Notebook.ipynb
 │
 └──Brief Presentation and Data Loading
@@ -27,10 +27,4 @@ Dataset: "London Bicycle Hires"
    | Spatial Clustering Analysis
        | K - means
        | DBSCAN
-"""
-
-## Libraries Used
-pandas, numpy, matplotlib, seaborn, mlxtend, nltk, sklearn, keras
-
-### Licence
-Copyright © 2020 Nick Nikitas, Dimitris Zografakis, Filippos Markolefas
+```
