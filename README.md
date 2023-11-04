@@ -2,7 +2,10 @@
 
 Dataset: "London Bicycle Hires"
 
-## Notebook Structure
+Golas of that project was tha analysis of the given the data based on the use of data mining tools, including data understanding, preprocessing and exploration, as well as applying some ML techiniqiues, like clustering analysis and forecasting, to
+retrieve more insights. For more details of our work, check our report (in Greek).
+
+## Notebook's Structure
 
 ```
 ~/Notebook.ipynb
@@ -29,4 +32,6 @@ Dataset: "London Bicycle Hires"
        | DBSCAN
 ```
 
-## Libraries Used:
+## Libraries Used
+
+pandas, numpy, matplotlib, seaborn, sklearn, keras
